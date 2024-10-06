@@ -1,4 +1,6 @@
-E-commerce
+# Project Name
+
+A brief description of your project.
 
 ## Requirements
 
@@ -12,34 +14,47 @@ Before running the project, you need to ensure that you have installed the neces
 
    ```bash
    git clone https://github.com/sonpham811z/E-commerce.git
-Navigate to the Project Folder
+   ```
 
-Change to the project directory:
+2. **Navigate to the Project Folder**
 
-bash
-Luôn hiển thị chi tiết
+   Change to the project directory:
 
-Sao chép mã
-cd E-commerce/mern-stack
-Install Dependencies
+   ```bash
+   cd E-commerce/mern-stack
+   ```
 
-Run the following command to install the required libraries:
+3. **Install Dependencies**
 
-npm install
-This command will automatically create the node_modules folder and install all dependencies listed in the package.json file.
+   Run the following command to install the required libraries:
 
-Run the Project
+   ```bash
+   npm install
+   ```
 
-Once the installation is complete, you can run the project using the command:
+   This command will automatically create the `node_modules` folder and install all dependencies listed in the `package.json` file.
 
-npm start
-Note
-Ensure that you have Node.js installed on your machine. You can check your installed version of Node.js by running:
+4. **Run the Project**
 
-node -v
-If you encounter any issues during the installation or while running the project, please check the error messages in the terminal and make sure you have the necessary versions installed.
+   Once the installation is complete, you can run the project using the command:
 
-Additional Documentation
-npm Documentation
-Node.js Documentation
-Thank you for your interest in our project! ^^
+   ```bash
+   npm start
+   ```
+
+## Note
+
+- Ensure that you have [Node.js](https://nodejs.org/en/download/) installed on your machine. You can check your installed version of Node.js by running:
+
+  ```bash
+  node -v
+  ```
+
+- If you encounter any issues during the installation or while running the project, please check the error messages in the terminal and make sure you have the necessary versions installed.
+
+## Additional Documentation
+
+- [npm Documentation](https://docs.npmjs.com/)
+- [Node.js Documentation](https://nodejs.org/en/docs/)
+
+Thank you for your interest in our project!
